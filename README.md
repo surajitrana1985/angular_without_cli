@@ -5,7 +5,7 @@ Prerequisite:
 
 NPM (Node Package Manager) should be installed
 
-STEPS:
+## STEPS:
 
 1. create package.json using command:
      npm init -y
@@ -92,6 +92,6 @@ STEPS:
 
 14. go to http://localhost:8080 and finally your angular is set up without cli.
 
-DEMO:
+## DEMO:
 
 ![aa](https://user-images.githubusercontent.com/13241573/36690878-a51041f0-1b59-11e8-9f01-abc45e3d7ef0.png)
