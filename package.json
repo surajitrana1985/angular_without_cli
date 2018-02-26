@@ -1,0 +1,36 @@
+{
+  "name": "angular_without_cli",
+  "version": "1.0.0",
+  "description": "This project is built on ANGULAR 5 without cli",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajitrana1985/angular_without_cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajitrana1985/angular_without_cli/issues"
+  },
+  "homepage": "https://github.com/surajitrana1985/angular_without_cli#readme",
+  "dependencies": {
+    "@angular/common": "^5.2.6",
+    "@angular/compiler": "^5.2.6",
+    "@angular/core": "^5.2.6",
+    "@angular/platform-browser": "^5.2.6",
+    "@angular/platform-browser-dynamic": "^5.2.6",
+    "core-js": "^2.5.3",
+    "rxjs": "^5.5.6",
+    "systemjs": "^0.21.0",
+    "zone.js": "^0.8.20"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "typescript": "^2.7.2"
+  }
+}
